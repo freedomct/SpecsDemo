@@ -1,0 +1,22 @@
+{
+  "name": "YYSpecsDemo",
+  "version": "0.1.0",
+  "summary": "A short description of YYSpecsDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fengzi/YYSpecsDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fengzi": "yangyun0112@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/fengzi/YYSpecsDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YYSpecsDemo/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - YYSpecsDemo (0.1.0)
+
+DEPENDENCIES:
+  - YYSpecsDemo (from `../`)
+
+EXTERNAL SOURCES:
+  YYSpecsDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YYSpecsDemo: 00cc07dc5f8bae069f2c411bd4d39dc1842df3f7
+
+PODFILE CHECKSUM: f328312405e75f750fb97912e1cdd1efd4eddd80
+
+COCOAPODS: 1.6.0.beta.2
